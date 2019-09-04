@@ -1,6 +1,6 @@
 # 2 dienu zygis pesciomis
 ## rubai
-batai ejimui
+-batai ejimui
 kojines ejimui
 kojines vakarui
 marskineliai ejimui
