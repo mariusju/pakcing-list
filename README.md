@@ -1,12 +1,12 @@
 # 2 dienu zygis pesciomis
 ## rubai
--batai ejimui
-kojines ejimui
-kojines vakarui
-marskineliai ejimui
-marskineliai vakarui
-dzemperis
-kelnes
+- batai ejimui
+- kojines ejimui
+- kojines vakarui
+- marskineliai ejimui
+- marskineliai vakarui
+- dzemperis
+- kelnes
 apsiaustas nuo lietaus
 striuke nuo salcio/vejo
 avalyne vakarui (nebutina)
