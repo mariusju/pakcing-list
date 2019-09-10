@@ -27,7 +27,7 @@
 - 2x pusryciai
 - 2x pietus
 - 1 vakariene
-- riesutai (almondsai)
+- riesutai
 - sokoladukai/batoneliai
 - sutrinti cipsai
 
@@ -46,6 +46,7 @@
 - degiklis
 - ziebtuvelis
 - ejimo lazdos
+- pasikniukas
 
 ## higiena
 - dantu pasta/sepetelis
@@ -56,6 +57,7 @@
 - ibuprofenas
 - pincetas erkems
 - pleistras nutrinimams
+- nagu zirklutes
 
 ## elektronika
 - zibintas
