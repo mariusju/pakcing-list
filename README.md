@@ -15,6 +15,7 @@
 - termo rubai (jei salta)
 - maudimukas (jei karsta)
 - sortai (jei karsta)
+- apatiniai
 
 ## nakvyne
 - palapine
@@ -47,6 +48,7 @@
 - ziebtuvelis
 - ejimo lazdos
 - pasikniukas
+- akiniai nuo saules
 
 ## higiena
 - dantu pasta/sepetelis
